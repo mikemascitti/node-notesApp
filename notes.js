@@ -21,6 +21,7 @@ if (!duplicateNotes.length > 0){
   }
 };
 
+
 var getAll = () => {
   console.log('getting all notes');
 }
